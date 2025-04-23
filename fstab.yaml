@@ -1,6 +1,7 @@
 mountpoints:
   /:
     # url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
-    url: "https://author-p129419-e1377476.adobeaemcloud.com/bin/franklin.delivery/dipenrique/tauniv-xwalk/main"
+   # url: "https://author-p129419-e1377476.adobeaemcloud.com/bin/franklin.delivery/dipenrique/tauniv-xwalk/main"
+   "https://author-p129419-e1377476.adobeaemcloud.com/bin/franklin.delivery/nirshani2023/tau/main"
     type: "markup"
     suffix: ".html"
